@@ -19,4 +19,8 @@
 // const mapCodingExercise_02 = require("./src/map/mapCodingExercise_02");
 // const mapCodingExercise_03 = require("./src/map/mapCodingExercise_03");
 // const filter = require("./src/filter/filter");
-const filter = require("./src/filter/filterExample01");
+// const filterExample01 = require("./src/filter/filterExample01");
+// const filterExample02 = require("./src/filter/filterExample02");
+// const filterCodingExercise_01 = require("./src/filter/filterCodingExercise_01");
+// const filterCodingExercise_02 = require("./src/filter/filterCodingExercise_02");
+const filterCodingExercise_03 = require("./src/filter/filterCodingExercise_03");
