@@ -31,4 +31,9 @@
 // const findExample02 = require("./src/find/findExample02");
 // const findCodingExercise01 = require("./src/find/findCodingExercise_01");
 // const findCodingExercise02 = require("./src/find/findCodingExercise_02");
-const findCodingExercise03 = require("./src/find/findCodingExercise_03");
+// const findCodingExercise03 = require("./src/find/findCodingExercise_03");
+
+// const everySome = require("./src/everySome/everySome");
+// const everySomeExample01 = require("./src/everySome/everySomeExample01");
+// const everySomeCodingExercise_01 = require("./src/everySome/everySomeCodingExercise_01");
+const everySomeCodingExercise_02 = require("./src/everySome/everySomeCodingExercise_02");
