@@ -36,4 +36,11 @@
 // const everySome = require("./src/everySome/everySome");
 // const everySomeExample01 = require("./src/everySome/everySomeExample01");
 // const everySomeCodingExercise_01 = require("./src/everySome/everySomeCodingExercise_01");
-const everySomeCodingExercise_02 = require("./src/everySome/everySomeCodingExercise_02");
+// const everySomeCodingExercise_02 = require("./src/everySome/everySomeCodingExercise_02");
+
+// const reduce = require("./src/reduce/reduce");
+// const reduceExample_01 = require("./src/reduce/reduceExample_01");
+// const reduceExample_02 = require("./src/reduce/reduceExample_02");
+// const reduceCodingExercise_01 = require("./src/reduce/reduceCodingExercise_01");
+// const reduceCodingExercise_02 = require("./src/reduce/reduceCodingExercise_02");
+const reduceCodingExercise_03 = require("./src/reduce/reduceCodingExercise_03");
